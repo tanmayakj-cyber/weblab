@@ -1,28 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="4style.css"?>
+<?xml-stylesheet type="text/css" href="4.style.css"?>
 <STUDENTDATA>
-    <STUDENT>
-        <USN>1BY22CS001</USN>
-        <NAME>Arjun Kumar</NAME>
-        <COLLEGE>BMSIT</COLLEGE>
-        <PROGRAMME>CSE</PROGRAMME>
-        <YEAR>2022</YEAR>
-        <EMAIL>arjun.kumar@example.com</EMAIL>
-    </STUDENT>
-    <STUDENT>
-        <USN>1BY22CS014</USN>
-        <NAME>Priya Sharma</NAME>
-        <COLLEGE>BMSIT</COLLEGE>
-        <PROGRAMME>CSE</PROGRAMME>
-        <YEAR>2022</YEAR>
-        <EMAIL>priya.sharma@example.com</EMAIL>
-    </STUDENT>
-    <STUDENT>
-        <USN>1BY23CS027</USN>
-        <NAME>Rahul Reddy</NAME>
-        <COLLEGE>BMSIT</COLLEGE>
-        <PROGRAMME>CSE</PROGRAMME>
-        <YEAR>2023</YEAR>
-        <EMAIL>rahul.reddy@example.com</EMAIL>
-    </STUDENT>
+	<STUDENT>
+		<USN>USN : 1BY24CS303</USN>
+		<NAME>NAME :Tanmaya K J</NAME>
+		<COLLEGE>COLLEGE :BMSIT</COLLEGE>
+		<BRANCH>BRANCH :CSE</BRANCH>
+		<YEAR>YEAR :2024</YEAR>
+		<EMAIL>E-MAIL : tanmaya.kj@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>USN : 1TD24CS286</USN>
+		<NAME>NAME : Spoorti S Poojar</NAME>
+		<COLLEGE>COLLEGE :BMSIT</COLLEGE>
+		<BRANCH>BRANCH :CSE</BRANCH>
+		<YEAR>YEAR :2024</YEAR>
+		<EMAIL>E-MAIL : spoortispoojar@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>USN : 1BY24CS282</USN>
+		<NAME>NAME : Spandana S</NAME>
+		<COLLEGE>COLLEGE :BMSIT</COLLEGE>
+		<BRANCH>BRANCH :CSE</BRANCH>
+		<YEAR>YEAR :2024</YEAR>
+		<EMAIL>E-MAIL : spandanas@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>USN : 1BY24CS222</USN>
+		<NAME>NAME : Rachitha B</NAME>
+		<COLLEGE>COLLEGE :BMSIT</COLLEGE>
+		<BRANCH>BRANCH :CSE</BRANCH>
+		<YEAR>YEAR :2024</YEAR>
+		<EMAIL>E-MAIL : rachithab@gmail.com</EMAIL>
+	</STUDENT>
 </STUDENTDATA>
