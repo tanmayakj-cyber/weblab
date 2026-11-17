@@ -1,0 +1,16 @@
+body{
+	font-family:Arial,sans-serif;
+	background-color: beige;
+	text-align: center;
+	margin-top: 100px;
+}
+h1{
+	color:brown;
+	font-size: 35px;
+	text-align: center;
+}
+body{
+	font-size: 25px;
+	color: rosybrown;
+	font-weight: bold;
+}
