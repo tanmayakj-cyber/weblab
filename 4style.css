@@ -1,42 +1,25 @@
-*
-{
-    display: block;
-    margin-left: 15px;
+*{
+	display: block; font-size: 20px; margin-left: 15px;
 }
-
 USN
 {
-    color: skyblue;
-    font-size: 30px;
-    margin-top: 20px;
+	color: blue;
+	font-size: 30px;
+	margin top: 20px;
+	margin-left: -5px;
 }
- 
-NAME
-{
-    color: blue;
-    font-size: 26px;
+NAME{
+	color:green;
 }
- 
-COLLEGE
-{
-    color: yellowgreen;
-    font-size: 22px;
+COLLEGE{
+	color: brown;
 }
- 
-PROGRAMME
-{
-    color: red;
-    font-size: 22px;
+BRANCH{
+	color:red;
 }
- 
-YEAR
-{
-    color: orange;
-    font-size: 20px;
+YEAR{
+	color:blue;
 }
- 
-EMAIL
-{
-    color: brown;
-    font-size: 18px;
+EMAIL{
+	color: pink;
 }
